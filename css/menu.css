@@ -277,7 +277,7 @@ h1, h2, h3, h4, p, a {
         top:0px;
         margin-left:0px;
         margin-right:0px;
-        background:#000;
+        background-color:rgba(10, 95, 100, 0.9);
         opacity: 0.8;
         left:0px;
         color:#fff;
