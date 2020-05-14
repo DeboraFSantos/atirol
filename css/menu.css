@@ -85,8 +85,11 @@ h1, h2, h3, h4, p, a {
     margin-top:20px;
 }
 
+.menusite .logo img {
+    width:130px;
+}
+
 .menusite .logo h2 {
-    color:#fff;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     margin-left:20px;
@@ -151,6 +154,11 @@ h1, h2, h3, h4, p, a {
     height:110px;
     float:left;
     display: table;
+}
+
+.socialmenuin .left img {
+    width: 130px;
+    margin-top:16px;
 }
 
 .socialmenuin .left h1 {
