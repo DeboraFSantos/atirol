@@ -304,7 +304,7 @@ h1, h2, h3, h4, p, a {
 
     .menusite.on {
         width:100%;
-        background:#000;
+        background:#3B8686;;
         margin-top:0px;  
         transition: all 0.3s;
     }
