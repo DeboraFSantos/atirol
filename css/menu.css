@@ -19,7 +19,6 @@ h1, h2, h3, h4, p, a {
     width:100%;
     height:auto;
     margin: 0 auto;
-    transition: all .5s ease;
     z-index: 1000;
 }
 
@@ -34,7 +33,6 @@ h1, h2, h3, h4, p, a {
     background:#3B8686;
     margin: 0 auto;
     color:#fff; 
-    transition: all 0.3s; 
 
 }
 
@@ -45,7 +43,6 @@ h1, h2, h3, h4, p, a {
     padding:25px 26px 26px 26px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    transition: all .5s ease;
 }
 
 .menusite ul li {
@@ -54,7 +51,6 @@ h1, h2, h3, h4, p, a {
     padding:26px 50px;
     margin-left:10px;
     margin-right:10px;
-    transition: all 0.3s;
     color:#fff;
     font-size:14px;
     text-transform: uppercase;
@@ -68,7 +64,6 @@ h1, h2, h3, h4, p, a {
     text-transform: uppercase;
     font-weight: 600;
     text-decoration: none;
-    transition: all .5s ease;
 }
 
 .menusite ul li:hover {
@@ -303,6 +298,7 @@ h1, h2, h3, h4, p, a {
     .menusite .logo {
         display: block;
         top:-3px;
+        margin-left:25px;
     }
 
 
